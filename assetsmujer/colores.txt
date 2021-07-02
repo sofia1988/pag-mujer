@@ -1,0 +1,14 @@
+#F24B59
+#F22E76
+#8FCBD9
+#04ADBF
+#D9A796
+gradiente:
+background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
+letras 
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;700&display=swap" rel="stylesheet">
+
+font-family: 'Source Code Pro', monospace;
+
