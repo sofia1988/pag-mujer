@@ -17,7 +17,7 @@ body {
     font-family: 'Source Code Pro', monospace;
 }
 .container {
-    margin:15%;
+    margin:5rem;
 }
 .title h1 {
     text-align: center;
@@ -42,6 +42,9 @@ body {
 }
 .featured {
     grid-column: span 2;
+}
+.featured3 {
+    grid-column: span 3;
 }
 .card {
     overflow: hidden;
