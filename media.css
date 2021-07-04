@@ -1,0 +1,9 @@
+@media (max-width:768px){
+    .featured {
+        grid-column: span 1;
+    }
+    .featured3 {
+        grid-column: span 1;
+    }
+   
+}
